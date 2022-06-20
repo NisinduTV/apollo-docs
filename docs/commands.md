@@ -35,3 +35,4 @@ For more information on a command, click the link in the description.
 | `/signup_presets add`           | Create a preset group of signup options |
 | `/signup_presets remove`        | Remove a preset group of signup options |
 | `/sort`                         | [Sort events by chronological order](./event_channels.md#sort-an-event-channel) |
+| `/hoi~                          | [Tell Hoi im the helper of Nisindu TV]
